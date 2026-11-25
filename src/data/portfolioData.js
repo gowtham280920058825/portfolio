@@ -16,7 +16,7 @@ export const personalInfo = {
   githubHandle: 'gowtham280920058825',
   githubAlias: 'Gowtham-05',
   linkedinUrl: 'https://www.linkedin.com/in/gowtham-c-aa91893a5/',
-  resumePath: '/resume.pdf',
+  resumePath: `${import.meta.env.BASE_URL}resume.pdf`,
   resumeFileName: 'Gowtham_C_Resume.pdf',
   languages: ['English', 'Tamil'],
   objective:
