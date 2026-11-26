@@ -8,10 +8,10 @@ import { EASE_LUXURY, scaleReveal, viewportConfig } from '../components/motionPr
 const resumeHighlights = [
   'MSc Software Systems at Kongu Engineering College (CGPA 7.65/10.00)',
   'Languages: Python, Java, C++, C, SQL & JavaScript (ES6+)',
-  'Full-Stack & Frontend: React.js, HTML5, CSS3, Bootstrap, Node.js, Express.js',
-  'Databases & Tools: MySQL, MongoDB, Git, DSA, Docker, Pandas',
-  'Projects: CodeWar 2.0, Blood Donation Website, Billing Software',
-  'Certifications: Cyber Job Simulation (2025) & C++ Programming (2026)',
+  'Full-Stack & Frontend: React.js, Tailwind CSS, Bootstrap 4/5, Node.js, Express.js',
+  'Databases & DevOps: MySQL, MongoDB, JSON Server, Git, GitHub Actions, Docker',
+  'Projects: Employee CRUD Dashboard, Enterprise Web & Inquiry API, CodeWar 2.0, Portfolio',
+  'Certifications: Oracle Java Foundations (2026), Infosys Cloud (2026), NPTEL & GreyLearn',
 ];
 
 export function ResumeSection() {
